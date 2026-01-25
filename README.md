@@ -2,8 +2,6 @@
 
 This repository contains **Mathematica notebooks** used to **reproduce and validate** the symbolic computations in **Section 5** of our paper:
 
-> **[Smoothing Meets Perturbation: Simplified and Tight Analysis for Nonconvex-Concave Minimax Optimization]**  
-
 In particular, the notebooks compute and simplify the **characteristic polynomial**, **eigenvalues**, and **eigenvectors** of the matrices appearing in the analysis (including *Perturbed GDA* and *Perturbed Smoothed GDA*  variants), serving as an independent check of the derivations reported in the paper.
 
 ---
